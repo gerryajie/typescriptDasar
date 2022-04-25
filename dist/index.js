@@ -1,0 +1,16 @@
+"use strict";
+let id = 5;
+let company = "PT sumber rezeki";
+let isPublish = true;
+let c = 4;
+let age;
+age = 29;
+let ids = [1, 2, 3, 4, 5];
+ids.push(10);
+let arr = [1, "bang", false, 30];
+console.log("id", id);
+console.log(company);
+console.log(isPublish);
+console.log(c);
+console.log(age);
+console.log(ids);
